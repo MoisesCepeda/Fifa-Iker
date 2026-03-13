@@ -1,0 +1,18 @@
+:root {
+  --bg: #091015;
+  --bg-soft: #0f1820;
+  --panel: rgba(10, 17, 24, 0.82);
+  --panel-strong: rgba(9, 14, 20, 0.94);
+  --line: rgba(255, 255, 255, 0.1);
+  --text: #eff5fb;
+  --muted: #98a9bb;
+  --lime: #d8ff2d;
+  --cyan: #49e2ff;
+  --gold: #ffd45d;
+  --danger: #d96262;
+  --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  --radius-lg: 28px;
+  --radius-md: 20px;
+  --radius-sm: 14px;
+  --content-width: 1180px;
+}
